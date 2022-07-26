@@ -1,0 +1,32 @@
+/* Basic Setup */
+html {
+    font-size: 62.5%;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Nav Bar */
+
+#nav_bar {
+    padding: 2.5rem 0;
+}
+
+#nav_bar #navbarNavDropdown {
+	justify-content: flex-end;
+}
+
+#nav_bar .navbar-brand {
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 3.3rem;
+    color: #3E3E3E;
+}
+
+#nav_bar .nav-item a {
+    padding: 1.5rem;
+    font-size: 1.6rem;
+    color: #3E3E3E;
+}
