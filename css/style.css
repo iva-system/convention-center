@@ -65,3 +65,26 @@ body {
     background: #3F87F5;
     color: #fff;
 }
+
+/* Special Section */
+#special {
+    padding: 100px 0;
+}
+
+.special_info h2 {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 60px;
+    color: #0A0826;
+}
+
+.special_info p {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 28px;
+    color: #6C6C6C;
+}
+
+.special_info .btn_sp_control {
+    padding: 10px 15px;
+}
