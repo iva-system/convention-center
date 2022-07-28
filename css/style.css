@@ -30,3 +30,38 @@ body {
     font-size: 1.6rem;
     color: #3E3E3E;
 }
+
+/* SLider Section */
+#slider .img_slider h1 {
+    color: #fff;
+    font-weight: 600;
+    font-size: 55px;
+    line-height: 58px;
+    padding-bottom: 10px;
+}
+
+#slider .img_slider p {
+    font-weight: 300;
+    font-size: 19px;
+    line-height: 24px;
+}
+
+#slider .img_slider .btn_custom_control {
+    padding: 20px 70px;
+    color: #3F87F5;
+    background: #fff; 
+    font-weight: 700;
+    font-size: 18px;
+    transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    -moz-transition: all .4s ease;
+    -ms-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    margin-bottom: 52px;
+    margin-top: 10px;
+}
+
+#slider .img_slider .btn.btn_custom_control:hover {
+    background: #3F87F5;
+    color: #fff;
+}
