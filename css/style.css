@@ -259,3 +259,28 @@ body {
     line-height: 28px;
     color: #7E848C;
 }
+
+/* Footer */
+footer#footer {
+    background: #0B0D17;
+    padding: 58px 0;
+}
+
+footer#footer p {
+    font-size: 14px;
+    line-height: 24px;
+    color: #D9DBE1;
+}
+
+
+footer#footer h4 {
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 28px;
+	color: #D9DBE1;
+	padding-right: 45px;
+}
+
+footer#footer img {
+	width: 25%;
+}
