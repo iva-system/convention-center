@@ -234,3 +234,28 @@ body {
     letter-spacing: 0.2px;
     color: #747474;
 }
+
+/* Faq */
+
+#faq {
+    padding-bottom: 100px;
+}
+
+#faq .faq_control {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: #383838;
+}
+
+#faq .accordion-button:not(.collapsed) {
+    color: #383838;
+    background: none;
+}
+
+#faq .accordion-body {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #7E848C;
+}
